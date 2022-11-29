@@ -21,7 +21,7 @@ h1 {
 }
 
 .navigation a {
-    /* text-decoration: none; */
+    text-decoration: none;
     color: #735F32;
     padding: 2px 2px;
 }
@@ -30,6 +30,10 @@ h1 {
 .navigation .active {
     color: #fff;
     font-size: large;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
 }
 
 
