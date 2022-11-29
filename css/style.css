@@ -88,3 +88,11 @@ hr{
     color: white;
     margin-top: 10px;
 }
+
+p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
