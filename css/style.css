@@ -82,3 +82,9 @@ header {
 .search-results li:nth-child(even) {
     background-color: #FAF9F6;
 }
+
+
+hr{
+    color: white;
+    margin-top: 10px;
+}
